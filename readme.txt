@@ -2,7 +2,11 @@ company registration smart contract
 
 simple ethereum contract to validate registration of company registration formalities
 
-Prerequisites Node.js Truffle Ganache Metamask
+Prerequisites 
+Node.js 
+Truffle 
+Ganache 
+Metamask
 
 Usage: Clone the repo
 
