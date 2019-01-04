@@ -11,11 +11,11 @@ Metamask
 
 *-------------------------------------------------------------------------------------------------------Step by step guide
 
-1- First of all, we must have installed Node.js version 8 or higher and version npm 5 or higher on the computer.
-2- You need to have installed Git, it is a software that allows you to download code from remote repositories, and npm uses it to access the latest versions of certain packages. https://git-scm.com/downloads
-3- Second we must have installed some IDE of development or some editor of text.
+1- Install node.js: First of all, we must have installed Node.js version 8 or higher and version npm 5 or higher on the computer.
+2- Install Git : You need to have installed Git, it is a software that allows you to download code from remote repositories, and npm uses it to access the latest versions of certain packages. https://git-scm.com/downloads
+3- Install Visual Studio Code: We must have installed some IDE of development or some editor of text.
 EXAMPLE: Atom, Sublime Text, Visual Studio code.
-4- Then proceed to verify the version of node.js and npm installed on the computer, if we have a Windows computer, we proceed to open Windows powershell of Microsoft.
+4- Then proceed to verify the version of node.js and npm installed on the computer, if we have a Windows computer, we proceed to open Windows powershell of Microsoft at administrator or CMD.
 5- Execute the node-v, npm -v commands to see the versions.
 
 ---
@@ -24,7 +24,7 @@ https://youtu.be/TdtHDq8kENM
 We made a video explaining these first five steps of the readme which is in the following youtube address: https://youtu.be/TdtHDq8kENM
 ---
 
-6-The c / c ++ compilation tools must be installed in npm
+6-Install c / c ++ compilation tools: Must be installed in npm
 If it's Linux: sudo apt-get update
                       sudo apt-get install build-essential
 If it is Windows: we execute the following code as administrator in Windows power Shell: npm install --global --production windows-build-tools.
@@ -35,7 +35,7 @@ If it is Windows: we execute the following code as administrator in Windows powe
 
 9-Install ganache: It is a software that we tested an Ethereum test network in a simple way, it can display contracts, execute performance tests, execute transaction inspection commands that take place in the network, the download link It is the following: https://truffleframework.com/ganache .
 
-10-It is necessary to install in the browser preferably a
+10-Install metamask : It is necessary to install in the browser preferably a
 extension called metamask which allow the management of the wallets that in turn allow identifying identities and signing Blockchain transactions from the following link can be downloaded: https://metamask.io/   .
 
 14-IMPORTANT
