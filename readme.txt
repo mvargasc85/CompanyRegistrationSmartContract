@@ -29,9 +29,10 @@ If it's Linux: sudo apt-get update
                       sudo apt-get install build-essential
 If it is Windows: we execute the following code as administrator in Windows power Shell: npm install --global --production windows-build-tools.
 
-7-Install extension solidity: We proceed to open our text editor "visual studio code" to install an extension called solidty which has Juan Blanco as its author.
+7-Install extension solidity: We proceed to open our text editor "visual studio code" to install an extension called solidty 
+which has Juan Blanco as its author.
 
-8-Install Truffle: You must install truffle framework in its version 4.1.13 specifically for the project globally using the following command: npm install truffle@4.1.3 -g the site oficial is https://truffleframework.com/truffle.
+8-Install Truffle: You must install truffle framework in its version 4.1.13 specifically for the project globally using the following command: npm install truffle@4.1.13 -g the site oficial is https://truffleframework.com/truffle.
 
 9-Install ganache: It is a software that we tested an Ethereum test network in a simple way, it can display contracts, execute performance tests, execute transaction inspection commands that take place in the network, the download link It is the following: https://truffleframework.com/ganache .
 
