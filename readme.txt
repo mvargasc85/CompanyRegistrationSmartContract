@@ -17,22 +17,25 @@ Metamask
 EXAMPLE: Atom, Sublime Text, Visual Studio code.
 4- Then proceed to verify the version of node.js and npm installed on the computer, if we have a Windows computer, we proceed to open Windows powershell of Microsoft.
 5- Execute the node-v, npm -v commands to see the versions.
+
+---
+Realizamos un video explicando estos primeros cinco pasos del readme el cual esta en la siguiente dirección de youtube:
+https://youtu.be/TdtHDq8kENM
+We made a video explaining these first five steps of the readme which is in the following youtube address: https://youtu.be/TdtHDq8kENM
+---
+
 6-The c / c ++ compilation tools must be installed in npm
 If it's Linux: sudo apt-get update
                       sudo apt-get install build-essential
 If it is Windows: we execute the following code as administrator in Windows power Shell: npm install --global --production windows-build-tools.
-7-We will download the solidity compiler called SOLC and the library web3.js
-We run inside the terminal of visual studio code
-in command npm show solc versions to see the versions of the solidity compiler.
-8- Next we use the compiler version 0.4.24 and install it in the jason package with the development dependency package of our project using the command: npm install solc@0.4.24 -save-dev.
-9- Next we install the version of web 3, but before  the current versions until now with the following command: npm show web3 versions.
-9.1-Once we see the versions we proceed to install using the following command: npm install web3@1.0.0-beta.35 -save-dev.
-10-Install ganache: It is a software that we tested an Ethereum test network in a simple way, it can display contracts, execute performance tests, execute transaction inspection commands that take place in the network, the download link It is the following: https://truffleframework.com/ .
-11-Install Javascript testing library called Moca
-using the following command: Npm install mocha@5.2.0 --save-dev.
-12-Se debe Instalar truffle framework de forma global.
-mediante el siguiente comando: npm install truffle@4.1.3 –g .
-13-It is necessary to install in the browser preferably a
+
+7-Install extension solidity: We proceed to open our text editor "visual studio code" to install an extension called solidty which has Juan Blanco as its author.
+
+8-Install Truffle: You must install truffle framework in its version 4.1.13 specifically for the project globally using the following command: npm install truffle@4.1.3 -g the site oficial is https://truffleframework.com/truffle.
+
+9-Install ganache: It is a software that we tested an Ethereum test network in a simple way, it can display contracts, execute performance tests, execute transaction inspection commands that take place in the network, the download link It is the following: https://truffleframework.com/ganache .
+
+10-It is necessary to install in the browser preferably a
 extension called metamask which allow the management of the wallets that in turn allow identifying identities and signing Blockchain transactions from the following link can be downloaded: https://metamask.io/   .
 
 14-IMPORTANT
