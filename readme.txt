@@ -42,6 +42,11 @@ Developed by Juan Blanco.
 10-Install Metamask : It is necessary to install in the browser preferably a
 extension called Metamask which allow the management of the wallets that in turn allow identifying identities and signing Blockchain transactions from the following link can be downloaded: https://metamask.io/   .
 
+---
+There is a tutorial video explaining the step 6 to 10 of this document, could by find it in the following link:
+https://www.youtube.com/watch?v=1U6IsQ15q9w
+--- 
+
 14-IMPORTANT
 Usage: Clone the repository
 
