@@ -20,8 +20,8 @@ EXAMPLE: Atom, Sublime Text, Visual Studio code.
 
 ---
 Realizamos un video explicando estos primeros cinco pasos del readme el cual esta en la siguiente dirección de youtube:
-https://youtu.be/TdtHDq8kENM
-We made a video explaining these first five steps of the readme which is in the following youtube address: https://youtu.be/TdtHDq8kENM
+https://www.youtube.com/watch?v=TdtHDq8kENM
+We made a video explaining these first five steps of the readme which is in the following youtube address: https://www.youtube.com/watch?v=TdtHDq8kENM
 ---
 
 6-Install c / c ++ compilation tools: Must be installed in npm
