@@ -52,22 +52,18 @@ There is a tutorial video explaining the step 6 to 10 of this document, could by
 https://www.youtube.com/watch?v=1U6IsQ15q9w
 --- 
 
-11-Clone repository: Next we will locate ourselves in any part of our pc, we will create a folder called use case, inside we open the GIT BASH and execute the following command: git clone https://github.com/mvargasc85/CompanyRegistrationSmartContract Once downloaded we verify the weight of the folder where it was downloaded.
+11-Clone repository: Next we will locate ourselves in any part of our pc, we will create a folder called use case, inside we open the GIT BASH and execute the following command: 
 
-12-Install project dependencies: Next we proceed to install the dependencies of the entire project of intelligent contracts so that it works effectively according to its development dependencies until the current version of the repository, once completed verify the weight of the folder in where we locate our use case.
+          git clone https://github.com/mvargasc85/CompanyRegistrationSmartContract 
+
+Once downloaded we verify the weight of the folder where it was downloaded.
+
+12-Install project dependencies: Next proceed to install the dependencies of the entire project of smart contracts so that it works effectively according to its development dependencies until the current version of the repository, once completed verify the size of the folder in where was located case of use.
+
 
 IMPORTANT
-13-Execute the project: Once the dependencies were downloaded, we proceed to execute the following commands from visual studio coden within the terminal located in the project logically, specifically in the following order:
-   13.1 command: truffle compile in the project directory
-   13.2 command: truffle deploy --reset
-   13.3 command: npm start
- Once executed, a window with the project running will be displayed in the browser.
 
-IMPORTANT
-14-Connect ganache with metamask: Next in this step we will show how to connect to a private network in metamask and import our available accounts in ganache.
-
-
-
+13-Connect ganache with metamask: Next in this step we will show how to connect to a private network in metamask and import our available accounts in ganache.
 
 Once installed the software requirements mentioned in the step-by-step guide, you can perfectly replicate and continue to share this project with the smart contracts project.
 
@@ -85,13 +81,14 @@ module.exports = {
   } 
 }
 
-configure metamask with the ganache info
+IMPORTANT
+14-Execute the project: Once the dependencies were downloaded, proceed to execute the following commands from visual studio code within the terminal located in the project, specifically in the following order:
 
-from a terminal: 
-
-1.truffle compile in the project directory 
-2.truffle deploy --reset 
-3.npm start
+   14.1 command: truffle compile in the project directory
+   14.2 command: truffle deploy --reset
+   14.3 command: npm start
+   
+ Once executed, the project running will be displayed in the default browser.
 
 
 
