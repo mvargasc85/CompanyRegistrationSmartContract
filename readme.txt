@@ -67,8 +67,8 @@ IMPORTANT
 
 Once installed the software requirements mentioned in the step-by-step guide, you can perfectly replicate and continue to share this project with the smart contracts project.
 
------------------------------------------------------------------------------------------------------------------------------*
 
+13.1
 Set the ganache info in the truffle-config.js
 module.exports = { 
   networks: { 
@@ -88,6 +88,11 @@ IMPORTANT
    14.2 command: truffle deploy --reset
    14.3 command: npm start
    
+---
+There is a tutorial video explaining the step 11 to 14.3 of this document, could by find it in the following link:
+https://www.youtube.com/watch?v=N-cd3TRKnsY
+--- 
+-----------------------------------------------------------------------------------------------------------------------------*
  Once executed, the project running will be displayed in the default browser.
 
 
