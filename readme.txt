@@ -92,8 +92,23 @@ IMPORTANT
 There is a tutorial video explaining the step 11 to 14.3 of this document, could by find it in the following link:
 https://www.youtube.com/watch?v=N-cd3TRKnsY
 --- 
------------------------------------------------------------------------------------------------------------------------------*
+
  Once executed, the project running will be displayed in the default browser.
+-----------------------------------------------------------------------------------------------------------------------------*
+Steps to implement the system to create companies developed with Laravel 5.6.
+
+15-Clone repository: Next we will locate ourselves in any part of our pc, we will create a folder called use case, inside we open the GIT BASH and execute the following command: 
+
+          git clone https://github.com/mvargasc85/CompanyRegistrationSmartContract 
+
+16-Install Xampp: XAMPP is a completely free and easy to install Apache distribution that contains MariaDB, PHP and Perl. The XAMPP installation package has been designed to be incredibly easy to install and use the official site is : https://www.apachefriends.org/es/index.html.
+ 
+17-Install MySQL Workbench :Is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux and Mac OS X.  the official site is https://www.mysql.com/products/workbench/ .
+
+18-Install Composer: the official site is https://getcomposer.org/
+
+19-Install Php Storm : the official site is https://www.jetbrains.com/phpstorm/
+
 
 
 
