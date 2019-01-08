@@ -95,20 +95,36 @@ https://www.youtube.com/watch?v=N-cd3TRKnsY
 
  Once executed, the project running will be displayed in the default browser.
 -----------------------------------------------------------------------------------------------------------------------------*
+IMPORTANT*******
 Steps to implement the system to create companies developed with Laravel 5.6.
 
-15-Clone repository: Next we will locate ourselves in any part of our pc, we will create a folder called use case, inside we open the GIT BASH and execute the following command: 
+15-Install winrar : the officil site is https://www.win-rar.com/start.html?&L=6
+
+16-Clone repository: Next we will locate ourselves in any part of our pc, we will create a folder called use case, inside we open the GIT BASH and execute the following command: 
 
           git clone https://github.com/mvargasc85/CompanyRegistrationSmartContract 
 
-16-Install Xampp: XAMPP is a completely free and easy to install Apache distribution that contains MariaDB, PHP and Perl. The XAMPP installation package has been designed to be incredibly easy to install and use the official site is : https://www.apachefriends.org/es/index.html.
+17-Install Xampp: XAMPP is a completely free and easy to install Apache distribution that contains MariaDB, PHP and Perl. The XAMPP installation package has been designed to be incredibly easy to install and use the official site is : https://www.apachefriends.org/es/index.html.
  
-17-Install MySQL Workbench :Is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux and Mac OS X.  the official site is https://www.mysql.com/products/workbench/ .
+18-Install MySQL Workbench :Is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more. MySQL Workbench is available on Windows, Linux and Mac OS X.  the official site is https://www.mysql.com/products/workbench/ .
 
-18-Install Composer: the official site is https://getcomposer.org/
+19-Install Composer: the official site is https://getcomposer.org/
 
-19-Install Php Storm : the official site is https://www.jetbrains.com/phpstorm/
+20-Install Php Storm : the official site is https://www.jetbrains.com/phpstorm/
 
+21-Run the xampp server and activate actions: Apache and Mysql.
+
+22-Import the database dbcreasistema.sql that comes inside the folder "System creates company Laravel 5.6" in xampp with phpmyadminh reference: https://www.youtube.com/watch?v=qTCF4JVEgag.
+
+23-Run php Storm and open the project system, go to the terminal and execute the command: php artisan serve
+
+24-Once the system starts enter with the email: kagamimendoza@gmail.com and the password: javier7654321 and ready you can be guided with the proof of concept videos to know how the system works.
+
+following links:
+
+Part 01 : https://www.youtube.com/watch?v=jLMeyI18iGg
+
+Part 02: https://www.youtube.com/watch?v=MMgBVRZzfjY
 
 
 
